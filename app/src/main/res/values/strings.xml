@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Application gestion RH</string>
+    <string name="g_rer_les_employs">gérer les employs</string>
+    <string name="d_partement">Département</string>
+    <string name="nouvel_employe">nouvel employe</string>
+    <string name="matricule_ex_emp001">matricule(ex:emp001)</string>
+    <string name="nom">nom</string>
+    <string name="pr_nom">prénom</string>
+    <string name="poste">poste</string>
+    <string name="enregistrer">enregistrer</string>
+    <string-array name="statut_options">
+        <item>Actif</item>
+        <item>En congé</item>
+        <item>Démissionnaire</item>
+    </string-array>
+    <string name="modifier_employe">Modifier cet employé</string>
+    <string name="supprimer_employe">Supprimer cet employé</string>
+    <string name="choisir_une_photo">Choisir une photo</string>
+</resources>
